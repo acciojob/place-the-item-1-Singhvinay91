@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	 width: 100%;    
+	font-size:32px;
+	
+}
+.div{
+	display:flex;
+	height:80px;
+	width:80px;
+	
+}
+
+#div1{
+	background-color:red;
+	
+}
+#div2{
+	background-color:blue;
+	
+}
+#div3{
+	background-color:green;
+	
+}
